@@ -1,0 +1,767 @@
+﻿clave_geo,codigo_origen,fuente_api,anio,periodo,tipo_referencia,codigo_scian,valor
+20067,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,270955.0
+20385,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,100402.0
+20565,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,46464.0
+20390,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,50362.0
+20399,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,41921.0
+20375,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13200.0
+20350,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,16878.0
+20107,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,26282.0
+20157,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,16827.0
+20083,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11391.0
+20115,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10391.0
+20409,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8939.0
+20553,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,12067.0
+20091,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6279.0
+20293,pobtot,Censo 2020 (Datos México),2020,2020,Censo 2020,00,17116.0
+20067,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,145103.0
+20385,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,53386.0
+20565,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,24301.0
+20390,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,26191.0
+20399,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,21973.0
+20375,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7010.0
+20350,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9172.0
+20107,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13890.0
+20157,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8838.0
+20083,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5884.0
+20115,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5393.0
+20409,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4800.0
+20553,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6295.0
+20091,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3279.0
+20293,pobfem,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9083.0
+20067,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,125852.0
+20385,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,47016.0
+20565,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,22163.0
+20390,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,24171.0
+20399,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,19948.0
+20375,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6190.0
+20350,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7706.0
+20107,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,12392.0
+20157,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7989.0
+20083,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5507.0
+20115,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4998.0
+20409,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4139.0
+20553,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5772.0
+20091,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3000.0
+20293,pobmas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8033.0
+20067,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,59475.0
+20385,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,24475.0
+20565,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13096.0
+20390,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11003.0
+20399,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11137.0
+20375,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3257.0
+20350,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3396.0
+20107,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7062.0
+20157,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3936.0
+20083,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3013.0
+20115,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2539.0
+20409,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1953.0
+20553,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2975.0
+20091,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1331.0
+20293,pob0_14,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4022.0
+20067,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,181878.0
+20385,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,69123.0
+20565,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,30501.0
+20390,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,35033.0
+20399,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,28533.0
+20375,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9239.0
+20350,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,12273.0
+20107,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,17612.0
+20157,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11740.0
+20083,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7743.0
+20115,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7051.0
+20409,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6101.0
+20553,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8069.0
+20091,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4345.0
+20293,pob15_64,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11996.0
+20067,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,27432.0
+20385,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6324.0
+20565,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2865.0
+20390,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4050.0
+20399,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2152.0
+20375,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,695.0
+20350,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1194.0
+20107,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1484.0
+20157,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1097.0
+20083,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,562.0
+20115,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,764.0
+20409,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,856.0
+20553,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,987.0
+20091,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,567.0
+20293,pob65_mas,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1036.0
+20067,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11.32
+20385,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10.87
+20565,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9.15
+20390,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11.45
+20399,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10.43
+20375,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10.7
+20350,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,12.58
+20107,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9.8
+20157,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11.77
+20083,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10.26
+20115,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10.69
+20409,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11.3
+20553,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9.69
+20091,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,12.02
+20293,graproes,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11.55
+20067,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5665.0
+20385,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2334.0
+20565,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1900.0
+20390,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,945.0
+20399,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1095.0
+20375,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,264.0
+20350,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,149.0
+20107,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,907.0
+20157,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,290.0
+20083,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,298.0
+20115,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,261.0
+20409,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,119.0
+20553,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,393.0
+20091,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,110.0
+20293,p15ym_an,Censo 2020 (Datos México),2020,2020,Censo 2020,00,216.0
+20067,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10302.0
+20385,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4242.0
+20565,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1883.0
+20390,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1957.0
+20399,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1752.0
+20375,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,554.0
+20350,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,579.0
+20107,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1035.0
+20157,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,731.0
+20083,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,511.0
+20115,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,500.0
+20409,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,357.0
+20553,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,430.0
+20091,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,227.0
+20293,p15a17a,Censo 2020 (Datos México),2020,2020,Censo 2020,00,811.0
+20067,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,144995.0
+20385,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,54175.0
+20565,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,24058.0
+20390,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,26838.0
+20399,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,22028.0
+20375,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6820.0
+20350,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9226.0
+20107,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13729.0
+20157,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8869.0
+20083,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5453.0
+20115,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5309.0
+20409,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4548.0
+20553,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6420.0
+20091,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3306.0
+20293,pea,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9068.0
+20067,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,142646.0
+20385,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,53226.0
+20565,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,23757.0
+20390,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,26464.0
+20399,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,21671.0
+20375,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6637.0
+20350,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9091.0
+20107,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13482.0
+20157,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8729.0
+20083,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5335.0
+20115,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5230.0
+20409,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4485.0
+20553,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6336.0
+20091,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3197.0
+20293,pocupada,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8940.0
+20067,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2349.0
+20385,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,949.0
+20565,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,301.0
+20390,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,374.0
+20399,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,357.0
+20375,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,183.0
+20350,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,135.0
+20107,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,247.0
+20157,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,140.0
+20083,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,118.0
+20115,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,79.0
+20409,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,63.0
+20553,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,84.0
+20091,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,109.0
+20293,pdesocup,Censo 2020 (Datos México),2020,2020,Censo 2020,00,128.0
+20067,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,170318.0
+20385,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,62193.0
+20565,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,27191.0
+20390,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,32429.0
+20399,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,25220.0
+20375,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,8878.0
+20350,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11791.0
+20107,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,15902.0
+20157,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11179.0
+20083,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6946.0
+20115,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7544.0
+20409,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6262.0
+20553,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6211.0
+20091,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3984.0
+20293,pder_ss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11521.0
+20067,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,98262.0
+20385,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,37709.0
+20565,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,19259.0
+20390,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,17643.0
+20399,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,16594.0
+20375,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4308.0
+20350,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5073.0
+20107,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10247.0
+20157,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5587.0
+20083,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4372.0
+20115,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2808.0
+20409,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2643.0
+20553,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5808.0
+20091,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2258.0
+20293,psinder,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5527.0
+20067,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,86561.0
+20385,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,27663.0
+20565,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7135.0
+20390,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,15005.0
+20399,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10095.0
+20375,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4253.0
+20350,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6470.0
+20107,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6468.0
+20157,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5563.0
+20083,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3096.0
+20115,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2501.0
+20409,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2889.0
+20553,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2340.0
+20091,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1700.0
+20293,pder_imss,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6397.0
+20067,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,74526.0
+20385,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,27492.0
+20565,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11808.0
+20390,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,14246.0
+20399,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11364.0
+20375,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3574.0
+20350,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5032.0
+20107,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6214.0
+20157,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4785.0
+20083,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2989.0
+20115,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2843.0
+20409,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2573.0
+20553,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3118.0
+20091,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1850.0
+20293,tvivparhab,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5051.0
+20067,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,73326.0
+20385,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,27055.0
+20565,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11338.0
+20390,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,14112.0
+20399,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,11093.0
+20375,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3551.0
+20350,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5023.0
+20107,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6143.0
+20157,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4749.0
+20083,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2946.0
+20115,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2803.0
+20409,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2557.0
+20553,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3085.0
+20091,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1833.0
+20293,vph_c_elec,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5005.0
+20067,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,70150.0
+20385,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,22437.0
+20565,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7549.0
+20390,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13887.0
+20399,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,9482.0
+20375,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3375.0
+20350,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4987.0
+20107,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5747.0
+20157,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4700.0
+20083,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2843.0
+20115,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2604.0
+20409,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2529.0
+20553,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2925.0
+20091,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1791.0
+20293,vph_aguadv,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4774.0
+20067,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,72249.0
+20385,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,26532.0
+20565,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10148.0
+20390,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,14081.0
+20399,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10772.0
+20375,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3525.0
+20350,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5011.0
+20107,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,6092.0
+20157,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4737.0
+20083,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2909.0
+20115,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2752.0
+20409,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2545.0
+20553,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2939.0
+20091,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1802.0
+20293,vph_drenaj,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4739.0
+20067,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,47008.0
+20385,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,16233.0
+20565,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3501.0
+20390,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10095.0
+20399,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5851.0
+20375,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2020.0
+20350,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3831.0
+20107,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3254.0
+20157,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3369.0
+20083,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1802.0
+20115,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1508.0
+20409,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1600.0
+20553,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1695.0
+20091,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1291.0
+20293,vph_inter,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3045.0
+20067,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,37512.0
+20385,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,12760.0
+20565,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2948.0
+20390,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,7555.0
+20399,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4698.0
+20375,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1578.0
+20350,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3206.0
+20107,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2337.0
+20157,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2762.0
+20083,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1069.0
+20115,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1235.0
+20409,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1379.0
+20553,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1147.0
+20091,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1124.0
+20293,vph_pc,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2763.0
+20067,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,68935.0
+20385,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,25879.0
+20565,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10719.0
+20390,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,13302.0
+20399,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,10660.0
+20375,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,3403.0
+20350,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4818.0
+20107,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,5836.0
+20157,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4565.0
+20083,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2791.0
+20115,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2656.0
+20409,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2380.0
+20553,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,2764.0
+20091,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,1729.0
+20293,vph_cel,Censo 2020 (Datos México),2020,2020,Censo 2020,00,4780.0
+20067,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.62
+20385,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.75
+20565,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.25
+20390,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.39
+20399,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.62
+20375,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,2.68
+20350,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.46
+20107,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.8
+20157,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.58
+20083,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,2.16
+20115,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.49
+20409,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.39
+20553,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.31
+20091,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,3.3
+20293,pct_desocupacion,Calculado (ETL),2020,2020,Censo 2020,00,1.41
+20067,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,36.27
+20385,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,37.56
+20565,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,41.45
+20390,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,35.03
+20399,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,39.58
+20375,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,32.64
+20350,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,30.06
+20107,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,38.99
+20157,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,33.2
+20083,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,38.38
+20115,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,27.02
+20409,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,29.57
+20553,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,48.13
+20091,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,35.96
+20293,pct_sin_salud,Calculado (ETL),2020,2020,Censo 2020,00,32.29
+20067,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,98.39
+20385,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,98.41
+20565,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,96.02
+20390,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.06
+20399,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,97.62
+20375,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.36
+20350,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.82
+20107,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,98.86
+20157,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.25
+20083,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,98.56
+20115,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,98.59
+20409,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.38
+20553,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,98.94
+20091,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.08
+20293,pct_viv_electricidad,Calculado (ETL),2020,2020,Censo 2020,00,99.09
+20067,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,94.13
+20385,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,81.61
+20565,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,63.93
+20390,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,97.48
+20399,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,83.44
+20375,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,94.43
+20350,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,99.11
+20107,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,92.48
+20157,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,98.22
+20083,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,95.12
+20115,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,91.59
+20409,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,98.29
+20553,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,93.81
+20091,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,96.81
+20293,pct_viv_agua,Calculado (ETL),2020,2020,Censo 2020,00,94.52
+20067,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,96.94
+20385,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,96.51
+20565,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,85.94
+20390,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,98.84
+20399,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,94.79
+20375,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,98.63
+20350,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,99.58
+20107,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,98.04
+20157,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,99.0
+20083,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,97.32
+20115,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,96.8
+20409,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,98.91
+20553,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,94.26
+20091,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,97.41
+20293,pct_viv_drenaje,Calculado (ETL),2020,2020,Censo 2020,00,93.82
+20067,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,63.08
+20385,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,59.05
+20565,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,29.65
+20390,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,70.86
+20399,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,51.49
+20375,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,56.52
+20350,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,76.13
+20107,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,52.37
+20157,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,70.41
+20083,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,60.29
+20115,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,53.04
+20409,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,62.18
+20553,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,54.36
+20091,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,69.78
+20293,pct_viv_internet,Calculado (ETL),2020,2020,Censo 2020,00,60.29
+20067,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,50.33
+20385,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,46.41
+20565,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,24.97
+20390,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,53.03
+20399,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,41.34
+20375,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,44.15
+20350,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,63.71
+20107,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,37.61
+20157,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,57.72
+20083,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,35.76
+20115,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,43.44
+20409,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,53.6
+20553,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,36.79
+20091,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,60.76
+20293,pct_viv_computadora,Calculado (ETL),2020,2020,Censo 2020,00,54.7
+20067,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,86.73
+20385,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,88.07
+20565,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,91.2
+20390,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,92.29
+20399,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,90.78
+20375,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,88.3
+20350,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,84.02
+20107,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,89.22
+20157,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,90.39
+20083,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,93.59
+20115,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,92.68
+20409,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,86.23
+20553,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,91.69
+20091,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,91.49
+20293,indice_masculinidad,Calculado (ETL),2020,2020,Censo 2020,00,88.44
+20,1002000001,BISE (INEGI),2025,2025,Serie BISE,00,4169180.0
+20,1002000001,BISE (INEGI),2020,2020,Serie BISE,00,4132148.0
+20,1002000001,BISE (INEGI),2015,2015,Serie BISE,00,3976297.0
+20,1002000001,BISE (INEGI),2010,2010,Serie BISE,00,3801962.0
+20,1002000001,BISE (INEGI),2005,2005,Serie BISE,00,3506821.0
+20,1002000001,BISE (INEGI),2000,2000,Serie BISE,00,3438765.0
+20,1002000001,BISE (INEGI),1995,1995,Serie BISE,00,3228895.0
+20,1002000001,BISE (INEGI),1990,1990,Serie BISE,00,3019560.0
+20,1002000001,BISE (INEGI),1980,1980,Serie BISE,00,2369076.0
+20,1002000001,BISE (INEGI),1970,1970,Serie BISE,00,2015424.0
+20,1002000001,BISE (INEGI),1960,1960,Serie BISE,00,1727266.0
+20,1002000001,BISE (INEGI),1950,1950,Serie BISE,00,1421313.0
+20,1002000001,BISE (INEGI),1940,1940,Serie BISE,00,1192794.0
+20,1002000001,BISE (INEGI),1930,1930,Serie BISE,00,1084549.0
+20,1002000001,BISE (INEGI),1921,1921,Serie BISE,00,976005.0
+20,1002000001,BISE (INEGI),1910,1910,Serie BISE,00,1040398.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,4.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,19.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,253.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,1453.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,747.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,13867.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,237.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,89.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,327.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,290.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,1099.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,347.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,764.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,2284.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,357.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,4935.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,4340.0
+20067,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,359.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,1.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,4.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,38.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,417.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,104.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,2190.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,24.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,5.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,22.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,49.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,92.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,31.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,150.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,278.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,56.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,816.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,985.0
+20385,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,50.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,5.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,4.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,404.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,53.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,1326.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,4.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,6.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,7.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,36.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,27.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,11.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,51.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,137.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,23.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,422.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,376.0
+20565,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,19.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,5.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,51.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,284.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,73.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,1388.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,13.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,8.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,28.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,64.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,133.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,38.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,91.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,258.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,44.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,646.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,801.0
+20390,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,99.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,4.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,1.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,192.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,16.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,733.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,1.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,1.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,3.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,22.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,19.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,11.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,43.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,61.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,18.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,230.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,306.0
+20399,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,8.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,2.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,3.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,78.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,4.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,313.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,1.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,2.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,0.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,9.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,9.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,4.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,14.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,27.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,5.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,110.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,140.0
+20375,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,8.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,1.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,13.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,57.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,20.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,384.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,3.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,1.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,2.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,17.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,15.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,1.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,11.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,22.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,52.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,12.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,197.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,164.0
+20350,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,6.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,1.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,13.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,804.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,33.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,681.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,3.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,0.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,6.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,14.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,23.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,12.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,24.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,55.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,15.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,215.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,298.0
+20107,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,9.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,2.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,13.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,75.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,35.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,405.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,13.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,2.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,1.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,8.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,21.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,7.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,31.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,41.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,16.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,173.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,224.0
+20157,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,7.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,1.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,3.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,124.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,13.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,287.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,1.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,2.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,1.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,13.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,8.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,1.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,10.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,25.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,4.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,119.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,104.0
+20083,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,9.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,2.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,2.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,41.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,13.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,388.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,2.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,1.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,4.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,4.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,4.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,3.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,14.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,33.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,8.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,146.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,106.0
+20115,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,23.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,3.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,1.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,50.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,7.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,361.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,2.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,4.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,1.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,8.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,9.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,5.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,25.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,28.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,9.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,190.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,130.0
+20409,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,11.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,1.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,7.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,343.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,14.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,357.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,1.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,2.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,5.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,12.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,9.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,3.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,18.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,20.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,7.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,205.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,119.0
+20553,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,19.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,2.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,5.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,22.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,4.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,94.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,1.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,1.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,0.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,1.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,0.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,1.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,8.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,9.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,0.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,129.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,52.0
+20091,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,3.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,11,0.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,21,0.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,22,5.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,23,5.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,31,33.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,43,10.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,46,184.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,48,2.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,51,2.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,52,0.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,53,4.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,54,3.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,55,0.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,56,3.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,61,20.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,62,14.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,71,3.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,72,67.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,81,69.0
+20293,establecimientos,DENUE (INEGI),2026,2026-11,Consulta DENUE,93,10.0

@@ -1,0 +1,3308 @@
+{
+  "_metadatos": {
+    "url": "https://www.inegi.org.mx/app/api/denue/v1/consulta/Cuantificar/93/20293/0/TOKEN",
+    "fecha_extraccion": "2026-11-14T13:38:15"
+  },
+  "respuesta": [
+    {
+      "area": "20067",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20067",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20067",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20067",
+          "Total": "19"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20067",
+          "Total": "253"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20067",
+          "Total": "1453"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20067",
+          "Total": "747"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20067",
+          "Total": "13867"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20067",
+          "Total": "237"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20067",
+          "Total": "89"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20067",
+          "Total": "327"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20067",
+          "Total": "290"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20067",
+          "Total": "1099"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20067",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20067",
+          "Total": "347"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20067",
+          "Total": "764"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20067",
+          "Total": "2284"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20067",
+          "Total": "357"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20067",
+          "Total": "4935"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20067",
+          "Total": "4340"
+        }
+      ]
+    },
+    {
+      "area": "20067",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20067",
+          "Total": "359"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20385",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20385",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20385",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20385",
+          "Total": "38"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20385",
+          "Total": "417"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20385",
+          "Total": "104"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20385",
+          "Total": "2190"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20385",
+          "Total": "24"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20385",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20385",
+          "Total": "22"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20385",
+          "Total": "49"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20385",
+          "Total": "92"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20385",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20385",
+          "Total": "31"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20385",
+          "Total": "150"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20385",
+          "Total": "278"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20385",
+          "Total": "56"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20385",
+          "Total": "816"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20385",
+          "Total": "985"
+        }
+      ]
+    },
+    {
+      "area": "20385",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20385",
+          "Total": "50"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20565",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20565",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20565",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20565",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20565",
+          "Total": "404"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20565",
+          "Total": "53"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20565",
+          "Total": "1326"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20565",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20565",
+          "Total": "6"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20565",
+          "Total": "7"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20565",
+          "Total": "36"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20565",
+          "Total": "27"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20565",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20565",
+          "Total": "11"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20565",
+          "Total": "51"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20565",
+          "Total": "137"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20565",
+          "Total": "23"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20565",
+          "Total": "422"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20565",
+          "Total": "376"
+        }
+      ]
+    },
+    {
+      "area": "20565",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20565",
+          "Total": "19"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20390",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20390",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20390",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20390",
+          "Total": "51"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20390",
+          "Total": "284"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20390",
+          "Total": "73"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20390",
+          "Total": "1388"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20390",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20390",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20390",
+          "Total": "28"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20390",
+          "Total": "64"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20390",
+          "Total": "133"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20390",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20390",
+          "Total": "38"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20390",
+          "Total": "91"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20390",
+          "Total": "258"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20390",
+          "Total": "44"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20390",
+          "Total": "646"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20390",
+          "Total": "801"
+        }
+      ]
+    },
+    {
+      "area": "20390",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20390",
+          "Total": "99"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20399",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20399",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20399",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20399",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20399",
+          "Total": "192"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20399",
+          "Total": "16"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20399",
+          "Total": "733"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20399",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20399",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20399",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20399",
+          "Total": "22"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20399",
+          "Total": "19"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20399",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20399",
+          "Total": "11"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20399",
+          "Total": "43"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20399",
+          "Total": "61"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20399",
+          "Total": "18"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20399",
+          "Total": "230"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20399",
+          "Total": "306"
+        }
+      ]
+    },
+    {
+      "area": "20399",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20399",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20375",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20375",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20375",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20375",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20375",
+          "Total": "78"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20375",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20375",
+          "Total": "313"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20375",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20375",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20375",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20375",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20375",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20375",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20375",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20375",
+          "Total": "14"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20375",
+          "Total": "27"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20375",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20375",
+          "Total": "110"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20375",
+          "Total": "140"
+        }
+      ]
+    },
+    {
+      "area": "20375",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20375",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20350",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20350",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20350",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20350",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20350",
+          "Total": "57"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20350",
+          "Total": "20"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20350",
+          "Total": "384"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20350",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20350",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20350",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20350",
+          "Total": "17"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20350",
+          "Total": "15"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20350",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20350",
+          "Total": "11"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20350",
+          "Total": "22"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20350",
+          "Total": "52"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20350",
+          "Total": "12"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20350",
+          "Total": "197"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20350",
+          "Total": "164"
+        }
+      ]
+    },
+    {
+      "area": "20350",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20350",
+          "Total": "6"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20107",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20107",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20107",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20107",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20107",
+          "Total": "804"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20107",
+          "Total": "33"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20107",
+          "Total": "681"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20107",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20107",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20107",
+          "Total": "6"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20107",
+          "Total": "14"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20107",
+          "Total": "23"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20107",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20107",
+          "Total": "12"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20107",
+          "Total": "24"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20107",
+          "Total": "55"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20107",
+          "Total": "15"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20107",
+          "Total": "215"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20107",
+          "Total": "298"
+        }
+      ]
+    },
+    {
+      "area": "20107",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20107",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20157",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20157",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20157",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20157",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20157",
+          "Total": "75"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20157",
+          "Total": "35"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20157",
+          "Total": "405"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20157",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20157",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20157",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20157",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20157",
+          "Total": "21"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20157",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20157",
+          "Total": "7"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20157",
+          "Total": "31"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20157",
+          "Total": "41"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20157",
+          "Total": "16"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20157",
+          "Total": "173"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20157",
+          "Total": "224"
+        }
+      ]
+    },
+    {
+      "area": "20157",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20157",
+          "Total": "7"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20083",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20083",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20083",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20083",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20083",
+          "Total": "124"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20083",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20083",
+          "Total": "287"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20083",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20083",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20083",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20083",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20083",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20083",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20083",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20083",
+          "Total": "10"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20083",
+          "Total": "25"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20083",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20083",
+          "Total": "119"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20083",
+          "Total": "104"
+        }
+      ]
+    },
+    {
+      "area": "20083",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20083",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20115",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20115",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20115",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20115",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20115",
+          "Total": "41"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20115",
+          "Total": "13"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20115",
+          "Total": "388"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20115",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20115",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20115",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20115",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20115",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20115",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20115",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20115",
+          "Total": "14"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20115",
+          "Total": "33"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20115",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20115",
+          "Total": "146"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20115",
+          "Total": "106"
+        }
+      ]
+    },
+    {
+      "area": "20115",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20115",
+          "Total": "23"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20409",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20409",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20409",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20409",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20409",
+          "Total": "50"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20409",
+          "Total": "7"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20409",
+          "Total": "361"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20409",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20409",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20409",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20409",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20409",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20409",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20409",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20409",
+          "Total": "25"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20409",
+          "Total": "28"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20409",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20409",
+          "Total": "190"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20409",
+          "Total": "130"
+        }
+      ]
+    },
+    {
+      "area": "20409",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20409",
+          "Total": "11"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20553",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20553",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20553",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20553",
+          "Total": "7"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20553",
+          "Total": "343"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20553",
+          "Total": "14"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20553",
+          "Total": "357"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20553",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20553",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20553",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20553",
+          "Total": "12"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20553",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20553",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20553",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20553",
+          "Total": "18"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20553",
+          "Total": "20"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20553",
+          "Total": "7"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20553",
+          "Total": "205"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20553",
+          "Total": "119"
+        }
+      ]
+    },
+    {
+      "area": "20553",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20553",
+          "Total": "19"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20091",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20091",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20091",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20091",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20091",
+          "Total": "22"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20091",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20091",
+          "Total": "94"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20091",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20091",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20091",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20091",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20091",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20091",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20091",
+          "Total": "1"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20091",
+          "Total": "8"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20091",
+          "Total": "9"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20091",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20091",
+          "Total": "129"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20091",
+          "Total": "52"
+        }
+      ]
+    },
+    {
+      "area": "20091",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20091",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "11",
+      "respuesta": [
+        {
+          "AE": "11",
+          "AG": "20293",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "21",
+      "respuesta": [
+        {
+          "AE": "21",
+          "AG": "20293",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "22",
+      "respuesta": [
+        {
+          "AE": "22",
+          "AG": "20293",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "23",
+      "respuesta": [
+        {
+          "AE": "23",
+          "AG": "20293",
+          "Total": "5"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "31",
+      "respuesta": [
+        {
+          "AE": "31",
+          "AG": "20293",
+          "Total": "33"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "43",
+      "respuesta": [
+        {
+          "AE": "43",
+          "AG": "20293",
+          "Total": "10"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "46",
+      "respuesta": [
+        {
+          "AE": "46",
+          "AG": "20293",
+          "Total": "184"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "48",
+      "respuesta": [
+        {
+          "AE": "48",
+          "AG": "20293",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "51",
+      "respuesta": [
+        {
+          "AE": "51",
+          "AG": "20293",
+          "Total": "2"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "52",
+      "respuesta": [
+        {
+          "AE": "52",
+          "AG": "20293",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "53",
+      "respuesta": [
+        {
+          "AE": "53",
+          "AG": "20293",
+          "Total": "4"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "54",
+      "respuesta": [
+        {
+          "AE": "54",
+          "AG": "20293",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "55",
+      "respuesta": [
+        {
+          "AE": "55",
+          "AG": "20293",
+          "Total": "0"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "56",
+      "respuesta": [
+        {
+          "AE": "56",
+          "AG": "20293",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "61",
+      "respuesta": [
+        {
+          "AE": "61",
+          "AG": "20293",
+          "Total": "20"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "62",
+      "respuesta": [
+        {
+          "AE": "62",
+          "AG": "20293",
+          "Total": "14"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "71",
+      "respuesta": [
+        {
+          "AE": "71",
+          "AG": "20293",
+          "Total": "3"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "72",
+      "respuesta": [
+        {
+          "AE": "72",
+          "AG": "20293",
+          "Total": "67"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "81",
+      "respuesta": [
+        {
+          "AE": "81",
+          "AG": "20293",
+          "Total": "69"
+        }
+      ]
+    },
+    {
+      "area": "20293",
+      "sector": "93",
+      "respuesta": [
+        {
+          "AE": "93",
+          "AG": "20293",
+          "Total": "10"
+        }
+      ]
+    }
+  ]
+}

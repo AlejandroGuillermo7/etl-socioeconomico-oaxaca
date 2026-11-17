@@ -1,0 +1,13 @@
+﻿regla,descripcion,registros_afectados
+R1,Catálogo: se conservan solo los 15 municipios de Valles Centrales,555
+R3,Catálogo: nombres con espacios sobrantes o Unicode no normalizado,0
+R5,Censo: registros duplicados del mismo municipio,0
+R4,"Censo: valores '*', 'N/D' o vacíos convertidos a NULL",0
+R6,Censo: valores negativos (imposibles) convertidos a NULL,0
+R6,Censo: inconsistencias aritméticas detectadas (ver validaciones.csv),0
+R8,Censo: indicadores porcentuales calculados,120
+R5,BISE: observaciones sin valor o duplicadas eliminadas,0
+R5,DENUE: consultas sin respuesta o duplicadas eliminadas,0
+R7,Censo: columnas convertidas a filas (formato largo) para la tabla de hechos,450
+R4,Hechos: filas sin valor (NULL) que no se cargan,0
+R5,"Hechos: duplicados por (municipio, indicador, periodo, actividad)",0
